@@ -8,7 +8,7 @@
 
 📚 I also love reading books on personal development, financial literacy, and especially up to date research papers on everything AI and ML. My favorite books are Atomic Habits and How to Win Friends and Influence People.
 
-⚡ Fun fact: I love to cook in my freetime, always love trying new recipes to share with my freinds and family! Also love playing all kinds of sports like volleyball, soccer, basketball, etc.
+⚡ Fun fact: I love to cook in my freetime, always love trying new recipes to share with my freinds and family! Also love playing all kinds of sports like volleyball, soccer, basketball, and anything that keeps me active.
 
 ## 🛠️ Skills
 ### Languages
