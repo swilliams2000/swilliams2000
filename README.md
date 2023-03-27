@@ -4,7 +4,7 @@
 
 🎓 My name is Seth Williams, I am a Machine Learning engineer (specializing in Pytorch, Hugging face, etc.) and currently a data analyst for 211 Tampa Bay Cares. I am also Pursuing my Bachelor in Chemical Engineering with a focus in ML, and will graduate in May 2023. 
 
-👨‍💻 I enjoy contributing to Open Source Projects and reveiwing others work to expand my knowledge. I am really enthusiastic about learning new technology. In 2022, I learned different models, pytorch, huggingface, React, transformers, etc.
+👨‍💻 I enjoy contributing to Open Source Projects and reveiwing others work to expand my knowledge. I am really enthusiastic about learning new technology. In 2022, I learned different models, pytorch, huggingface, React, transformers, and many more.
 
 📚 I also love reading books on personal development, financial literacy, and especially up to date research papers on everything AI and ML. My favorite books are Atomic Habits and How to Win Friends and Influence People.
 
