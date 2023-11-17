@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 My name is Seth Williams, I am a Machine Learning engineer (specializing in Pytorch, Hugging face, etc.) and currently a data analyst for 211 Tampa Bay Cares. I am also Pursuing my Bachelor in Chemical Engineering with a focus in ML, and will graduate in May 2023. 
+🎓 My name is Seth Williams, I am a Machine Learning engineer (specializing in Pytorch, Hugging face, etc.) and currently a Digital Twins Lead for Forge Nano. I have also obtained a Bachelor in Chemical Engineering with a focus in ML.
 
 👨‍💻 I enjoy contributing to Open Source Projects and reveiwing others work to expand my knowledge. I am really enthusiastic about learning new technology. In 2022, I learned different models, pytorch, huggingface, React, transformers, and many more.
 
 📚 I also love reading books on personal development, financial literacy, and especially up to date research papers on everything AI and ML. My favorite books are Atomic Habits and How to Win Friends and Influence People.
 
-⚡ Fun fact: I love to cook in my freetime, always love trying new recipes to share with my freinds and family! Also love playing all kinds of sports like volleyball, soccer, basketball, and anything that keeps me active.
+⚡ Fun fact: I love to cook in my freetime, always love trying new recipes from around the world! As well as learning different langauges like Korean and Spanish. Also love playing all kinds of sports like volleyball, soccer, basketball, and anything that keeps me active.
 
 ## 🛠️ Skills
 ### Languages
