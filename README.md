@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 My name is Seth Williams, I am a Machine Learning engineer (specializing in Pytorch, Tensorflow, etc.) and currently a Digital Twins Lead for Forge Nano. I have also obtained a Bachelor in Chemical Engineering with a focus in ML.
+🎓 My name is Seth Williams, I am a Machine Learning and Software engineer (specializing in Pytorch, Tensorflow, etc.) and currently a Digital Twins Lead for Forge Nano. I have also obtained a Bachelor in Computer and Chemical Engineering.
 
 👨‍💻 I enjoy contributing to Open Source Projects and reveiwing others work to expand my knowledge. I am really enthusiastic about learning new technology. In 2022, I learned different models, pytorch, huggingface, React, transformers, and many more.
 
