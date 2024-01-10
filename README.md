@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello There, I'm Seth Williams 👋
 
 ## 🚀 About Me
 
