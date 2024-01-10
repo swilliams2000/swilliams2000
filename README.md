@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seth Williams</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning  and fullstack Engineer</h3>
 
 - 🔭 I’m currently working as a **Simulations Lead for Forge Nano**
 
