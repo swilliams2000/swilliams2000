@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **transformer models, specifically tokenizers**
 
-- 👯 I’m looking to collaborate on **any UX design project**
+- 👯 I’m looking to collaborate on **machine learning projects**
 
 - 📫 Reach me on **LinkedIn**
 
