@@ -9,6 +9,8 @@
 
 - 📫 Reach me on **LinkedIn**
 
+- 💻 Check out my **[Portfolio](https://your-portfolio-link.com)**  
+
 - ⚡ Fun fact **I love to cook in my freetime, always love trying new recipes from around the world! As well as learning different langauges like Korean and Spanish. Also love playing all kinds of sports like volleyball, soccer, basketball, and anything that keeps me active.**
 
 <h3 align="left">Connect with me:</h3>
