@@ -65,8 +65,7 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swilliams2000&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=swilliams2000&show_icons=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swilliams2000&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swilliams2000&show_icons=true)
 
