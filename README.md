@@ -65,6 +65,3 @@
 
 <hr>
 
-![GitHub followers](https://img.shields.io/github/followers/swilliam2000?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/swilliam2000?style=for-the-badge)
-
