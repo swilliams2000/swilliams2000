@@ -65,7 +65,6 @@
 
 <hr>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swilliams2000&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swilliams2000&show_icons=true)
+![GitHub followers](https://img.shields.io/github/followers/swilliam2000?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/swilliam2000?style=for-the-badge)
 
