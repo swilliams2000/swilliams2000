@@ -65,6 +65,15 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swilliams2000&show_icons=true&locale=en&layout=compact" alt="swilliams2000" /></p>
+<div class="stats-container">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=swilliams2000&layout=compact"
+    alt="Top languages for swilliams2000"
+  />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swilliams2000&show_icons=true&locale=en" alt="swilliams2000" /></p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=swilliams2000&show_icons=true"
+    alt="GitHub stats for swilliams2000"
+  />
+</div>
+
