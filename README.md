@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seth Williams</h1>
-<h3 align="center">A passionate Fullstack, ML, and Blockchain Engineer </h3>
+<h3 align="center">A passionate Fullstack, ML, and Chemical Engineer </h3>
 
 <hr>
 
