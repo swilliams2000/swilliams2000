@@ -4,7 +4,7 @@
 <hr>
 
 <p dir="auto">⚙️  <strong>Simulations Engineer & PM @ Forge Nano</strong> | Prev <strong>Mars</strong>, <strong>Dow</strong>, <strong>Kimberly Clark</strong>, <strong>Raytheon</strong><br>
-🎓 <strong>M.S. Computer Science @ Georgia Institute of Technology</strong><br>🎓<strong>B.S. Chemical Engineering @ University of South Florida (GPA: 3.81 / 4.0)</strong><br>
+🎓 <strong>M.S. Computer Science with specialization in AI/ML @ Georgia Institute of Technology</strong><br>🎓<strong>B.S. Chemical Engineering @ University of South Florida (GPA: 3.81 / 4.0)</strong><br>
 🌐 <a href="https://sethwilliams.vercel.app/" rel="nofollow">Seth Williams Portfolio</a> | <a href="https://www.linkedin.com/in/seth-m-williams/" rel="nofollow">LinkedIn</a> | <a href="https://huggingface.co/SWilliams20" rel="nofollow">Hugging Face</a></p>
 
 <hr>
